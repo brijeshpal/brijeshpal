@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijesh Kumar</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Motivated, diligent and responsible pursuing postgraduate seeking an opportunity to become a **Data Analyst**. Ability to interpret, analyze and present findings using various analytical tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshpal&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshpal" /> </p>
 
