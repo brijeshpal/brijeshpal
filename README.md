@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **brijeshpal8878@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
-
 - ⚡ Fun fact **I love with Data**
 
 <h3 align="left">Connect with me:</h3>
